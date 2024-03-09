@@ -112,7 +112,8 @@
         {
             "shortcode": ":upside_down_face:",
             "unicode": "U+1F643",
-            "emoji": "🙃"
+            "emoji": "🙃",
+            "keywords": []
         },
         {
             "shortcode": ":melting_face:",
@@ -176,12 +177,14 @@
         {
             "shortcode": ":smiling_face_with_heart_eyes:",
             "unicode": "U+1F60D",
-            "emoji": "😍"
+            "emoji": "😍",
+            "keywords": []
         },
         {
             "shortcode": ":star_struck:",
             "unicode": "U+1F929",
-            "emoji": "🤩"
+            "emoji": "🤩",
+            "keywords": []
         },
         {
             "shortcode": ":face_blowing_a_kiss:",
@@ -305,7 +308,8 @@
         {
             "shortcode": ":money_mouth_face:",
             "unicode": "U+1F911",
-            "emoji": "🤑"
+            "emoji": "🤑",
+            "keywords": []
         },
         {
             "shortcode": ":smiling_face_with_open_hands:",
@@ -389,7 +393,8 @@
         {
             "shortcode": ":zipper_mouth_face:",
             "unicode": "U+1F910",
-            "emoji": "🤐"
+            "emoji": "🤐",
+            "keywords": []
         },
         {
             "shortcode": ":face_with_raised_eyebrow:",
@@ -519,7 +524,8 @@
         {
             "shortcode": ":⊛_shaking_face:",
             "unicode": "U+1F925",
-            "emoji": "🤥"
+            "emoji": "🤥",
+            "keywords": []
         },
         {
             "shortcode": ":relieved_face:",
@@ -600,7 +606,8 @@
         {
             "shortcode": ":face_with_head_bandage:",
             "unicode": "U+1F915",
-            "emoji": "🤕"
+            "emoji": "🤕",
+            "keywords": []
         },
         {
             "shortcode": ":nauseated_face:",
@@ -676,7 +683,8 @@
         {
             "shortcode": ":face_with_crossed_out_eyes:",
             "unicode": "U+1F635",
-            "emoji": "😵"
+            "emoji": "😵",
+            "keywords": []
         },
         {
             "shortcode": ":face_with_spiral_eyes:",
@@ -1288,7 +1296,8 @@
         {
             "shortcode": ":smiling_cat_with_heart_eyes:",
             "unicode": "U+1F63B",
-            "emoji": "😻"
+            "emoji": "😻",
+            "keywords": []
         },
         {
             "shortcode": ":cat_with_wry_smile:",
@@ -1353,17 +1362,20 @@
         {
             "shortcode": ":see_no_evil_monkey:",
             "unicode": "U+1F648",
-            "emoji": "🙈"
+            "emoji": "🙈",
+            "keywords": []
         },
         {
             "shortcode": ":hear_no_evil_monkey:",
             "unicode": "U+1F649",
-            "emoji": "🙉"
+            "emoji": "🙉",
+            "keywords": []
         },
         {
             "shortcode": ":speak_no_evil_monkey:",
             "unicode": "U+1F64A",
-            "emoji": "🙊"
+            "emoji": "🙊",
+            "keywords": []
         },
         {
             "shortcode": ":love_letter:",
@@ -1507,7 +1519,8 @@
         {
             "shortcode": ":⊛_pink_heart:",
             "unicode": "U+2764",
-            "emoji": "❤"
+            "emoji": "❤",
+            "keywords": []
         },
         {
             "shortcode": ":orange_heart:",
@@ -1566,7 +1579,8 @@
         {
             "shortcode": ":⊛_grey_heart:",
             "unicode": "U+1F5A4",
-            "emoji": "🖤"
+            "emoji": "🖤",
+            "keywords": []
         },
         {
             "shortcode": ":white_heart:",
@@ -1821,7 +1835,8 @@
         {
             "shortcode": ":⊛_rightwards_pushing_hand:",
             "unicode": "U+1FAF4",
-            "emoji": "🫴"
+            "emoji": "🫴",
+            "keywords": []
         },
         {
             "shortcode": ":OK_hand:",
@@ -1891,7 +1906,8 @@
         {
             "shortcode": ":love_you_gesture:",
             "unicode": "U+1F91F",
-            "emoji": "🤟"
+            "emoji": "🤟",
+            "keywords": []
         },
         {
             "shortcode": ":sign_of_the_horns:",
@@ -2053,12 +2069,14 @@
         {
             "shortcode": ":left_facing_fist:",
             "unicode": "U+1F91B",
-            "emoji": "🤛"
+            "emoji": "🤛",
+            "keywords": []
         },
         {
             "shortcode": ":right_facing_fist:",
             "unicode": "U+1F91C",
-            "emoji": "🤜"
+            "emoji": "🤜",
+            "keywords": []
         },
         {
             "shortcode": ":clapping_hands:",
@@ -2407,7 +2425,8 @@
         {
             "shortcode": ":person_blond_hair:",
             "unicode": "U+1F471",
-            "emoji": "👱"
+            "emoji": "👱",
+            "keywords": []
         },
         {
             "shortcode": ":man:",
@@ -2421,37 +2440,44 @@
         {
             "shortcode": ":person_beard:",
             "unicode": "U+1F9D4",
-            "emoji": "🧔"
+            "emoji": "🧔",
+            "keywords": []
         },
         {
             "shortcode": ":man_beard:",
             "unicode": "U+1F9D4 U+200D U+2642 U+FE0F",
-            "emoji": "🧔‍♂️"
+            "emoji": "🧔‍♂️",
+            "keywords": []
         },
         {
             "shortcode": ":woman_beard:",
             "unicode": "U+1F9D4 U+200D U+2640 U+FE0F",
-            "emoji": "🧔‍♀️"
+            "emoji": "🧔‍♀️",
+            "keywords": []
         },
         {
             "shortcode": ":man_red_hair:",
             "unicode": "U+1F468 U+200D U+1F9B0",
-            "emoji": "👨‍🦰"
+            "emoji": "👨‍🦰",
+            "keywords": []
         },
         {
             "shortcode": ":man_curly_hair:",
             "unicode": "U+1F468 U+200D U+1F9B1",
-            "emoji": "👨‍🦱"
+            "emoji": "👨‍🦱",
+            "keywords": []
         },
         {
             "shortcode": ":man_white_hair:",
             "unicode": "U+1F468 U+200D U+1F9B3",
-            "emoji": "👨‍🦳"
+            "emoji": "👨‍🦳",
+            "keywords": []
         },
         {
             "shortcode": ":man_bald:",
             "unicode": "U+1F468 U+200D U+1F9B2",
-            "emoji": "👨‍🦲"
+            "emoji": "👨‍🦲",
+            "keywords": []
         },
         {
             "shortcode": ":woman:",
@@ -2465,52 +2491,62 @@
         {
             "shortcode": ":woman_red_hair:",
             "unicode": "U+1F469 U+200D U+1F9B0",
-            "emoji": "👩‍🦰"
+            "emoji": "👩‍🦰",
+            "keywords": []
         },
         {
             "shortcode": ":person_red_hair:",
             "unicode": "U+1F9D1 U+200D U+1F9B0",
-            "emoji": "🧑‍🦰"
+            "emoji": "🧑‍🦰",
+            "keywords": []
         },
         {
             "shortcode": ":woman_curly_hair:",
             "unicode": "U+1F469 U+200D U+1F9B1",
-            "emoji": "👩‍🦱"
+            "emoji": "👩‍🦱",
+            "keywords": []
         },
         {
             "shortcode": ":person_curly_hair:",
             "unicode": "U+1F9D1 U+200D U+1F9B1",
-            "emoji": "🧑‍🦱"
+            "emoji": "🧑‍🦱",
+            "keywords": []
         },
         {
             "shortcode": ":woman_white_hair:",
             "unicode": "U+1F469 U+200D U+1F9B3",
-            "emoji": "👩‍🦳"
+            "emoji": "👩‍🦳",
+            "keywords": []
         },
         {
             "shortcode": ":person_white_hair:",
             "unicode": "U+1F9D1 U+200D U+1F9B3",
-            "emoji": "🧑‍🦳"
+            "emoji": "🧑‍🦳",
+            "keywords": []
         },
         {
             "shortcode": ":woman_bald:",
             "unicode": "U+1F469 U+200D U+1F9B2",
-            "emoji": "👩‍🦲"
+            "emoji": "👩‍🦲",
+            "keywords": []
         },
         {
             "shortcode": ":person_bald:",
             "unicode": "U+1F9D1 U+200D U+1F9B2",
-            "emoji": "🧑‍🦲"
+            "emoji": "🧑‍🦲",
+            "keywords": []
         },
         {
             "shortcode": ":woman_blond_hair:",
             "unicode": "U+1F471 U+200D U+2640 U+FE0F",
-            "emoji": "👱‍♀️"
+            "emoji": "👱‍♀️",
+            "keywords": []
         },
         {
             "shortcode": ":man_blond_hair:",
             "unicode": "U+1F471 U+200D U+2642 U+FE0F",
-            "emoji": "👱‍♂️"
+            "emoji": "👱‍♂️",
+            "keywords": []
         },
         {
             "shortcode": ":older_person:",
@@ -3731,7 +3767,8 @@
         {
             "shortcode": ":breast_feeding:",
             "unicode": "U+1F931",
-            "emoji": "🤱"
+            "emoji": "🤱",
+            "keywords": []
         },
         {
             "shortcode": ":woman_feeding_baby:",
@@ -5070,17 +5107,20 @@
         {
             "shortcode": ":kiss_woman_man:",
             "unicode": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468",
-            "emoji": "👩‍❤️‍💋‍👨"
+            "emoji": "👩‍❤️‍💋‍👨",
+            "keywords": []
         },
         {
             "shortcode": ":kiss_man_man:",
             "unicode": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468",
-            "emoji": "👨‍❤️‍💋‍👨"
+            "emoji": "👨‍❤️‍💋‍👨",
+            "keywords": []
         },
         {
             "shortcode": ":kiss_woman_woman:",
             "unicode": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469",
-            "emoji": "👩‍❤️‍💋‍👩"
+            "emoji": "👩‍❤️‍💋‍👩",
+            "keywords": []
         },
         {
             "shortcode": ":couple_with_heart:",
@@ -5095,17 +5135,20 @@
         {
             "shortcode": ":couple_with_heart_woman_man:",
             "unicode": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468",
-            "emoji": "👩‍❤️‍👨"
+            "emoji": "👩‍❤️‍👨",
+            "keywords": []
         },
         {
             "shortcode": ":couple_with_heart_man_man:",
             "unicode": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468",
-            "emoji": "👨‍❤️‍👨"
+            "emoji": "👨‍❤️‍👨",
+            "keywords": []
         },
         {
             "shortcode": ":couple_with_heart_woman_woman:",
             "unicode": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469",
-            "emoji": "👩‍❤️‍👩"
+            "emoji": "👩‍❤️‍👩",
+            "keywords": []
         },
         {
             "shortcode": ":family:",
@@ -5118,127 +5161,152 @@
         {
             "shortcode": ":family_man_woman_boy:",
             "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F466",
-            "emoji": "👨‍👩‍👦"
+            "emoji": "👨‍👩‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_woman_girl:",
             "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F467",
-            "emoji": "👨‍👩‍👧"
+            "emoji": "👨‍👩‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_woman_girl_boy:",
             "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466",
-            "emoji": "👨‍👩‍👧‍👦"
+            "emoji": "👨‍👩‍👧‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_woman_boy_boy:",
             "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466",
-            "emoji": "👨‍👩‍👦‍👦"
+            "emoji": "👨‍👩‍👦‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_woman_girl_girl:",
             "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467",
-            "emoji": "👨‍👩‍👧‍👧"
+            "emoji": "👨‍👩‍👧‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_man_boy:",
             "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F466",
-            "emoji": "👨‍👨‍👦"
+            "emoji": "👨‍👨‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man:",
             "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F467",
-            "emoji": "👨‍👨‍👧"
+            "emoji": "👨‍👨‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_man_girl_boy:",
             "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466",
-            "emoji": "👨‍👨‍👧‍👦"
+            "emoji": "👨‍👨‍👧‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_man_boy_boy:",
             "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466",
-            "emoji": "👨‍👨‍👦‍👦"
+            "emoji": "👨‍👨‍👦‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_man_girl_girl:",
             "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467",
-            "emoji": "👨‍👨‍👧‍👧"
+            "emoji": "👨‍👨‍👧‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_woman_boy:",
             "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F466",
-            "emoji": "👩‍👩‍👦"
+            "emoji": "👩‍👩‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_woman_girl:",
             "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F467",
-            "emoji": "👩‍👩‍👧"
+            "emoji": "👩‍👩‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_woman_girl_boy:",
             "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466",
-            "emoji": "👩‍👩‍👧‍👦"
+            "emoji": "👩‍👩‍👧‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_woman_boy_boy:",
             "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466",
-            "emoji": "👩‍👩‍👦‍👦"
+            "emoji": "👩‍👩‍👦‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_woman_girl_girl:",
             "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467",
-            "emoji": "👩‍👩‍👧‍👧"
+            "emoji": "👩‍👩‍👧‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_boy:",
             "unicode": "U+1F468 U+200D U+1F466",
-            "emoji": "👨‍👦"
+            "emoji": "👨‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_boy_boy:",
             "unicode": "U+1F468 U+200D U+1F466 U+200D U+1F466",
-            "emoji": "👨‍👦‍👦"
+            "emoji": "👨‍👦‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_girl:",
             "unicode": "U+1F468 U+200D U+1F467",
-            "emoji": "👨‍👧"
+            "emoji": "👨‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_girl_boy:",
             "unicode": "U+1F468 U+200D U+1F467 U+200D U+1F466",
-            "emoji": "👨‍👧‍👦"
+            "emoji": "👨‍👧‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_man_girl_girl:",
             "unicode": "U+1F468 U+200D U+1F467 U+200D U+1F467",
-            "emoji": "👨‍👧‍👧"
+            "emoji": "👨‍👧‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_boy:",
             "unicode": "U+1F469 U+200D U+1F466",
-            "emoji": "👩‍👦"
+            "emoji": "👩‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_boy_boy:",
             "unicode": "U+1F469 U+200D U+1F466 U+200D U+1F466",
-            "emoji": "👩‍👦‍👦"
+            "emoji": "👩‍👦‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_girl:",
             "unicode": "U+1F469 U+200D U+1F467",
-            "emoji": "👩‍👧"
+            "emoji": "👩‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_girl_boy:",
             "unicode": "U+1F469 U+200D U+1F467 U+200D U+1F466",
-            "emoji": "👩‍👧‍👦"
+            "emoji": "👩‍👧‍👦",
+            "keywords": []
         },
         {
             "shortcode": ":family_woman_girl_girl:",
             "unicode": "U+1F469 U+200D U+1F467 U+200D U+1F467",
-            "emoji": "👩‍👧‍👧"
+            "emoji": "👩‍👧‍👧",
+            "keywords": []
         },
         {
             "shortcode": ":speaking_head:",
@@ -5694,7 +5762,8 @@
         {
             "shortcode": ":two_hump_camel:",
             "unicode": "U+1F42B",
-            "emoji": "🐫"
+            "emoji": "🐫",
+            "keywords": []
         },
         {
             "shortcode": ":llama:",
@@ -5997,7 +6066,8 @@
         {
             "shortcode": ":front_facing_baby_chick:",
             "unicode": "U+1F425",
-            "emoji": "🐥"
+            "emoji": "🐥",
+            "keywords": []
         },
         {
             "shortcode": ":bird:",
@@ -6203,7 +6273,8 @@
         {
             "shortcode": ":t_rex:",
             "unicode": "U+1F996",
-            "emoji": "🦖"
+            "emoji": "🦖",
+            "keywords": []
         },
         {
             "shortcode": ":spouting_whale:",
@@ -8124,17 +8195,20 @@
         {
             "shortcode": ":globe_showing_europe_africa:",
             "unicode": "U+1F30D",
-            "emoji": "🌍"
+            "emoji": "🌍",
+            "keywords": []
         },
         {
             "shortcode": ":globe_showing_americas:",
             "unicode": "U+1F30E",
-            "emoji": "🌎"
+            "emoji": "🌎",
+            "keywords": []
         },
         {
             "shortcode": ":globe_showing_asia_australia:",
             "unicode": "U+1F30F",
-            "emoji": "🌏"
+            "emoji": "🌏",
+            "keywords": []
         },
         {
             "shortcode": ":globe_with_meridians:",
@@ -8160,7 +8234,8 @@
         {
             "shortcode": ":map_of_japan:",
             "unicode": "U+1F5FE",
-            "emoji": "🗾"
+            "emoji": "🗾",
+            "keywords": []
         },
         {
             "shortcode": ":compass:",
@@ -8176,7 +8251,8 @@
         {
             "shortcode": ":snow_capped_mountain:",
             "unicode": "U+1F3D4",
-            "emoji": "🏔"
+            "emoji": "🏔",
+            "keywords": []
         },
         {
             "shortcode": ":mountain:",
@@ -8371,7 +8447,8 @@
         {
             "shortcode": ":japanese_post_office:",
             "unicode": "U+1F3E3",
-            "emoji": "🏣"
+            "emoji": "🏣",
+            "keywords": []
         },
         {
             "shortcode": ":post_office:",
@@ -8459,7 +8536,8 @@
         {
             "shortcode": ":japanese_castle:",
             "unicode": "U+1F3EF",
-            "emoji": "🏯"
+            "emoji": "🏯",
+            "keywords": []
         },
         {
             "shortcode": ":castle:",
@@ -8483,12 +8561,14 @@
         {
             "shortcode": ":tokyo_tower:",
             "unicode": "U+1F5FC",
-            "emoji": "🗼"
+            "emoji": "🗼",
+            "keywords": []
         },
         {
             "shortcode": ":statue_of_liberty:",
             "unicode": "U+1F5FD",
-            "emoji": "🗽"
+            "emoji": "🗽",
+            "keywords": []
         },
         {
             "shortcode": ":church:",
@@ -8751,7 +8831,8 @@
         {
             "shortcode": ":high_speed_train:",
             "unicode": "U+1F684",
-            "emoji": "🚄"
+            "emoji": "🚄",
+            "keywords": []
         },
         {
             "shortcode": ":bullet_train:",
@@ -9511,122 +9592,146 @@
         {
             "shortcode": ":twelve_oclock:",
             "unicode": "U+1F55B",
-            "emoji": "🕛"
+            "emoji": "🕛",
+            "keywords": []
         },
         {
             "shortcode": ":twelve_thirty:",
             "unicode": "U+1F567",
-            "emoji": "🕧"
+            "emoji": "🕧",
+            "keywords": []
         },
         {
             "shortcode": ":one_oclock:",
             "unicode": "U+1F550",
-            "emoji": "🕐"
+            "emoji": "🕐",
+            "keywords": []
         },
         {
             "shortcode": ":one_thirty:",
             "unicode": "U+1F55C",
-            "emoji": "🕜"
+            "emoji": "🕜",
+            "keywords": []
         },
         {
             "shortcode": ":two_oclock:",
             "unicode": "U+1F551",
-            "emoji": "🕑"
+            "emoji": "🕑",
+            "keywords": []
         },
         {
             "shortcode": ":two_thirty:",
             "unicode": "U+1F55D",
-            "emoji": "🕝"
+            "emoji": "🕝",
+            "keywords": []
         },
         {
             "shortcode": ":three_oclock:",
             "unicode": "U+1F552",
-            "emoji": "🕒"
+            "emoji": "🕒",
+            "keywords": []
         },
         {
             "shortcode": ":three_thirty:",
             "unicode": "U+1F55E",
-            "emoji": "🕞"
+            "emoji": "🕞",
+            "keywords": []
         },
         {
             "shortcode": ":four_oclock:",
             "unicode": "U+1F553",
-            "emoji": "🕓"
+            "emoji": "🕓",
+            "keywords": []
         },
         {
             "shortcode": ":four_thirty:",
             "unicode": "U+1F55F",
-            "emoji": "🕟"
+            "emoji": "🕟",
+            "keywords": []
         },
         {
             "shortcode": ":five_oclock:",
             "unicode": "U+1F554",
-            "emoji": "🕔"
+            "emoji": "🕔",
+            "keywords": []
         },
         {
             "shortcode": ":five_thirty:",
             "unicode": "U+1F560",
-            "emoji": "🕠"
+            "emoji": "🕠",
+            "keywords": []
         },
         {
             "shortcode": ":six_oclock:",
             "unicode": "U+1F555",
-            "emoji": "🕕"
+            "emoji": "🕕",
+            "keywords": []
         },
         {
             "shortcode": ":six_thirty:",
             "unicode": "U+1F561",
-            "emoji": "🕡"
+            "emoji": "🕡",
+            "keywords": []
         },
         {
             "shortcode": ":seven_oclock:",
             "unicode": "U+1F556",
-            "emoji": "🕖"
+            "emoji": "🕖",
+            "keywords": []
         },
         {
             "shortcode": ":seven_thirty:",
             "unicode": "U+1F562",
-            "emoji": "🕢"
+            "emoji": "🕢",
+            "keywords": []
         },
         {
             "shortcode": ":eight_oclock:",
             "unicode": "U+1F557",
-            "emoji": "🕗"
+            "emoji": "🕗",
+            "keywords": []
         },
         {
             "shortcode": ":eight_thirty:",
             "unicode": "U+1F563",
-            "emoji": "🕣"
+            "emoji": "🕣",
+            "keywords": []
         },
         {
             "shortcode": ":nine_oclock:",
             "unicode": "U+1F558",
-            "emoji": "🕘"
+            "emoji": "🕘",
+            "keywords": []
         },
         {
             "shortcode": ":nine_thirty:",
             "unicode": "U+1F564",
-            "emoji": "🕤"
+            "emoji": "🕤",
+            "keywords": []
         },
         {
             "shortcode": ":ten_oclock:",
             "unicode": "U+1F559",
-            "emoji": "🕙"
+            "emoji": "🕙",
+            "keywords": []
         },
         {
             "shortcode": ":ten_thirty:",
             "unicode": "U+1F565",
-            "emoji": "🕥"
+            "emoji": "🕥",
+            "keywords": []
         },
         {
             "shortcode": ":eleven_oclock:",
             "unicode": "U+1F55A",
-            "emoji": "🕚"
+            "emoji": "🕚",
+            "keywords": []
         },
         {
             "shortcode": ":eleven_thirty:",
             "unicode": "U+1F566",
-            "emoji": "🕦"
+            "emoji": "🕦",
+            "keywords": []
         },
         {
             "shortcode": ":new_moon:",
@@ -10117,12 +10222,14 @@
         {
             "shortcode": ":jack_o_lantern:",
             "unicode": "U+1F383",
-            "emoji": "🎃"
+            "emoji": "🎃",
+            "keywords": []
         },
         {
             "shortcode": ":christmas_tree:",
             "unicode": "U+1F384",
-            "emoji": "🎄"
+            "emoji": "🎄",
+            "keywords": []
         },
         {
             "shortcode": ":fireworks:",
@@ -10223,7 +10330,8 @@
         {
             "shortcode": ":japanese_dolls:",
             "unicode": "U+1F38E",
-            "emoji": "🎎"
+            "emoji": "🎎",
+            "keywords": []
         },
         {
             "shortcode": ":carp_streamer:",
@@ -10679,7 +10787,8 @@
         {
             "shortcode": ":yo_yo:",
             "unicode": "U+1FA80",
-            "emoji": "🪀"
+            "emoji": "🪀",
+            "keywords": []
         },
         {
             "shortcode": ":kite:",
@@ -11083,7 +11192,8 @@
         {
             "shortcode": ":t_shirt:",
             "unicode": "U+1F455",
-            "emoji": "👕"
+            "emoji": "👕",
+            "keywords": []
         },
         {
             "shortcode": ":jeans:",
@@ -11163,7 +11273,8 @@
         {
             "shortcode": ":one_piece_swimsuit:",
             "unicode": "U+1FA71",
-            "emoji": "🩱"
+            "emoji": "🩱",
+            "keywords": []
         },
         {
             "shortcode": ":briefs:",
@@ -11201,7 +11312,8 @@
         {
             "shortcode": ":womans_clothes:",
             "unicode": "U+1F45A",
-            "emoji": "👚"
+            "emoji": "👚",
+            "keywords": []
         },
         {
             "shortcode": ":purse:",
@@ -11274,7 +11386,8 @@
         {
             "shortcode": ":mans_shoe:",
             "unicode": "U+1F45E",
-            "emoji": "👞"
+            "emoji": "👞",
+            "keywords": []
         },
         {
             "shortcode": ":running_shoe:",
@@ -11313,12 +11426,14 @@
         {
             "shortcode": ":high_heeled_shoe:",
             "unicode": "U+1F460",
-            "emoji": "👠"
+            "emoji": "👠",
+            "keywords": []
         },
         {
             "shortcode": ":womans_sandal:",
             "unicode": "U+1F461",
-            "emoji": "👡"
+            "emoji": "👡",
+            "keywords": []
         },
         {
             "shortcode": ":ballet_shoes:",
@@ -11333,7 +11448,8 @@
         {
             "shortcode": ":womans_boot:",
             "unicode": "U+1F462",
-            "emoji": "👢"
+            "emoji": "👢",
+            "keywords": []
         },
         {
             "shortcode": ":crown:",
@@ -11349,7 +11465,8 @@
         {
             "shortcode": ":womans_hat:",
             "unicode": "U+1F452",
-            "emoji": "👒"
+            "emoji": "👒",
+            "keywords": []
         },
         {
             "shortcode": ":top_hat:",
@@ -11398,7 +11515,8 @@
         {
             "shortcode": ":rescue_workers_helmet:",
             "unicode": "U+26D1",
-            "emoji": "⛑"
+            "emoji": "⛑",
+            "keywords": []
         },
         {
             "shortcode": ":prayer_beads:",
@@ -12212,7 +12330,8 @@
         {
             "shortcode": ":rolled_up_newspaper:",
             "unicode": "U+1F5DE",
-            "emoji": "🗞"
+            "emoji": "🗞",
+            "keywords": []
         },
         {
             "shortcode": ":bookmark_tabs:",
@@ -12379,7 +12498,8 @@
         {
             "shortcode": ":e_mail:",
             "unicode": "U+1F4E7",
-            "emoji": "📧"
+            "emoji": "📧",
+            "keywords": []
         },
         {
             "shortcode": ":incoming_envelope:",
@@ -12624,7 +12744,8 @@
         {
             "shortcode": ":tear_off_calendar:",
             "unicode": "U+1F4C6",
-            "emoji": "📆"
+            "emoji": "📆",
+            "keywords": []
         },
         {
             "shortcode": ":spiral_notepad:",
@@ -13278,7 +13399,8 @@
         {
             "shortcode": ":x_ray:",
             "unicode": "U+1FA7B",
-            "emoji": "🩻"
+            "emoji": "🩻",
+            "keywords": []
         },
         {
             "shortcode": ":door:",
@@ -13658,7 +13780,8 @@
         {
             "shortcode": ":atm_sign:",
             "unicode": "U+1F3E7",
-            "emoji": "🏧"
+            "emoji": "🏧",
+            "keywords": []
         },
         {
             "shortcode": ":litter_in_bin_sign:",
@@ -13692,12 +13815,14 @@
         {
             "shortcode": ":mens_room:",
             "unicode": "U+1F6B9",
-            "emoji": "🚹"
+            "emoji": "🚹",
+            "keywords": []
         },
         {
             "shortcode": ":womens_room:",
             "unicode": "U+1F6BA",
-            "emoji": "🚺"
+            "emoji": "🚺",
+            "keywords": []
         },
         {
             "shortcode": ":restroom:",
@@ -13858,7 +13983,8 @@
         {
             "shortcode": ":non_potable_water:",
             "unicode": "U+1F6B1",
-            "emoji": "🚱"
+            "emoji": "🚱",
+            "keywords": []
         },
         {
             "shortcode": ":no_pedestrians:",
@@ -13932,7 +14058,8 @@
         {
             "shortcode": ":up_right_arrow:",
             "unicode": "U+2197",
-            "emoji": "↗"
+            "emoji": "↗",
+            "keywords": []
         },
         {
             "shortcode": ":right_arrow:",
@@ -13949,7 +14076,8 @@
         {
             "shortcode": ":down_right_arrow:",
             "unicode": "U+2198",
-            "emoji": "↘"
+            "emoji": "↘",
+            "keywords": []
         },
         {
             "shortcode": ":down_arrow:",
@@ -13966,7 +14094,8 @@
         {
             "shortcode": ":down_left_arrow:",
             "unicode": "U+2199",
-            "emoji": "↙"
+            "emoji": "↙",
+            "keywords": []
         },
         {
             "shortcode": ":left_arrow:",
@@ -13983,17 +14112,20 @@
         {
             "shortcode": ":up_left_arrow:",
             "unicode": "U+2196",
-            "emoji": "↖"
+            "emoji": "↖",
+            "keywords": []
         },
         {
             "shortcode": ":up_down_arrow:",
             "unicode": "U+2195",
-            "emoji": "↕"
+            "emoji": "↕",
+            "keywords": []
         },
         {
             "shortcode": ":left_right_arrow:",
             "unicode": "U+2194",
-            "emoji": "↔"
+            "emoji": "↔",
+            "keywords": []
         },
         {
             "shortcode": ":right_arrow_curving_left:",
@@ -14058,27 +14190,32 @@
         {
             "shortcode": ":back_arrow:",
             "unicode": "U+1F519",
-            "emoji": "🔙"
+            "emoji": "🔙",
+            "keywords": []
         },
         {
             "shortcode": ":end_arrow:",
             "unicode": "U+1F51A",
-            "emoji": "🔚"
+            "emoji": "🔚",
+            "keywords": []
         },
         {
             "shortcode": ":on_arrow:",
             "unicode": "U+1F51B",
-            "emoji": "🔛"
+            "emoji": "🔛",
+            "keywords": []
         },
         {
             "shortcode": ":soon_arrow:",
             "unicode": "U+1F51C",
-            "emoji": "🔜"
+            "emoji": "🔜",
+            "keywords": []
         },
         {
             "shortcode": ":top_arrow:",
             "unicode": "U+1F51D",
-            "emoji": "🔝"
+            "emoji": "🔝",
+            "keywords": []
         },
         {
             "shortcode": ":place_of_worship:",
@@ -14113,7 +14250,8 @@
         {
             "shortcode": ":star_of_david:",
             "unicode": "U+2721",
-            "emoji": "✡"
+            "emoji": "✡",
+            "keywords": []
         },
         {
             "shortcode": ":wheel_of_dharma:",
@@ -14195,72 +14333,86 @@
         {
             "shortcode": ":dotted_six_pointed_star:",
             "unicode": "U+1F52F",
-            "emoji": "🔯"
+            "emoji": "🔯",
+            "keywords": []
         },
         {
             "shortcode": ":aries:",
             "unicode": "U+2648",
-            "emoji": "♈"
+            "emoji": "♈",
+            "keywords": []
         },
         {
             "shortcode": ":taurus:",
             "unicode": "U+2649",
-            "emoji": "♉"
+            "emoji": "♉",
+            "keywords": []
         },
         {
             "shortcode": ":gemini:",
             "unicode": "U+264A",
-            "emoji": "♊"
+            "emoji": "♊",
+            "keywords": []
         },
         {
             "shortcode": ":cancer:",
             "unicode": "U+264B",
-            "emoji": "♋"
+            "emoji": "♋",
+            "keywords": []
         },
         {
             "shortcode": ":leo:",
             "unicode": "U+264C",
-            "emoji": "♌"
+            "emoji": "♌",
+            "keywords": []
         },
         {
             "shortcode": ":virgo:",
             "unicode": "U+264D",
-            "emoji": "♍"
+            "emoji": "♍",
+            "keywords": []
         },
         {
             "shortcode": ":libra:",
             "unicode": "U+264E",
-            "emoji": "♎"
+            "emoji": "♎",
+            "keywords": []
         },
         {
             "shortcode": ":scorpio:",
             "unicode": "U+264F",
-            "emoji": "♏"
+            "emoji": "♏",
+            "keywords": []
         },
         {
             "shortcode": ":sagittarius:",
             "unicode": "U+2650",
-            "emoji": "♐"
+            "emoji": "♐",
+            "keywords": []
         },
         {
             "shortcode": ":capricorn:",
             "unicode": "U+2651",
-            "emoji": "♑"
+            "emoji": "♑",
+            "keywords": []
         },
         {
             "shortcode": ":aquarius:",
             "unicode": "U+2652",
-            "emoji": "♒"
+            "emoji": "♒",
+            "keywords": []
         },
         {
             "shortcode": ":pisces:",
             "unicode": "U+2653",
-            "emoji": "♓"
+            "emoji": "♓",
+            "keywords": []
         },
         {
             "shortcode": ":ophiuchus:",
             "unicode": "U+26CE",
-            "emoji": "⛎"
+            "emoji": "⛎",
+            "keywords": []
         },
         {
             "shortcode": ":shuffle_tracks_button:",
@@ -14309,7 +14461,8 @@
         {
             "shortcode": ":fast_forward_button:",
             "unicode": "U+23E9",
-            "emoji": "⏩"
+            "emoji": "⏩",
+            "keywords": []
         },
         {
             "shortcode": ":next_track_button:",
@@ -14753,7 +14906,8 @@
         {
             "shortcode": ":fleur_de_lis:",
             "unicode": "U+269C",
-            "emoji": "⚜"
+            "emoji": "⚜",
+            "keywords": []
         },
         {
             "shortcode": ":trident_emblem:",
@@ -14779,7 +14933,8 @@
         {
             "shortcode": ":japanese_symbol_for_beginner:",
             "unicode": "U+1F530",
-            "emoji": "🔰"
+            "emoji": "🔰",
+            "keywords": []
         },
         {
             "shortcode": ":hollow_red_circle:",
@@ -14885,12 +15040,14 @@
         {
             "shortcode": ":eight_spoked_asterisk:",
             "unicode": "U+2733",
-            "emoji": "✳"
+            "emoji": "✳",
+            "keywords": []
         },
         {
             "shortcode": ":eight_pointed_star:",
             "unicode": "U+2734",
-            "emoji": "✴"
+            "emoji": "✴",
+            "keywords": []
         },
         {
             "shortcode": ":sparkle:",
@@ -14933,67 +15090,80 @@
         {
             "shortcode": "::hash::",
             "unicode": "U+0023 U+FE0F U+20E3",
-            "emoji": "#️⃣"
+            "emoji": "#️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::asterisk::",
             "unicode": "U+002A U+FE0F U+20E3",
-            "emoji": "*️⃣"
+            "emoji": "*️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::zero::",
             "unicode": "U+0030 U+FE0F U+20E3",
-            "emoji": "0️⃣"
+            "emoji": "0️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::one::",
             "unicode": "U+0031 U+FE0F U+20E3",
-            "emoji": "1️⃣"
+            "emoji": "1️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::two::",
             "unicode": "U+0032 U+FE0F U+20E3",
-            "emoji": "2️⃣"
+            "emoji": "2️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::three::",
             "unicode": "U+0033 U+FE0F U+20E3",
-            "emoji": "3️⃣"
+            "emoji": "3️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::four::",
             "unicode": "U+0034 U+FE0F U+20E3",
-            "emoji": "4️⃣"
+            "emoji": "4️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::five::",
             "unicode": "U+0035 U+FE0F U+20E3",
-            "emoji": "5️⃣"
+            "emoji": "5️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::six::",
             "unicode": "U+0036 U+FE0F U+20E3",
-            "emoji": "6️⃣"
+            "emoji": "6️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::seven::",
             "unicode": "U+0037 U+FE0F U+20E3",
-            "emoji": "7️⃣"
+            "emoji": "7️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::eight::",
             "unicode": "U+0038 U+FE0F U+20E3",
-            "emoji": "8️⃣"
+            "emoji": "8️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::nine::",
             "unicode": "U+0039 U+FE0F U+20E3",
-            "emoji": "9️⃣"
+            "emoji": "9️⃣",
+            "keywords": []
         },
         {
             "shortcode": "::ten::",
             "unicode": "U+1F51F",
-            "emoji": "🔟"
+            "emoji": "🔟",
+            "keywords": []
         },
         {
             "shortcode": ":input_latin_uppercase:",
@@ -15054,32 +15224,38 @@
         {
             "shortcode": ":a_button_blood_type:",
             "unicode": "U+1F170",
-            "emoji": "🅰"
+            "emoji": "🅰",
+            "keywords": []
         },
         {
             "shortcode": ":ab_button_blood_type:",
             "unicode": "U+1F18E",
-            "emoji": "🆎"
+            "emoji": "🆎",
+            "keywords": []
         },
         {
             "shortcode": ":b_button_blood_type:",
             "unicode": "U+1F171",
-            "emoji": "🅱"
+            "emoji": "🅱",
+            "keywords": []
         },
         {
             "shortcode": ":cl_button:",
             "unicode": "U+1F191",
-            "emoji": "🆑"
+            "emoji": "🆑",
+            "keywords": []
         },
         {
             "shortcode": ":cool_button:",
             "unicode": "U+1F192",
-            "emoji": "🆒"
+            "emoji": "🆒",
+            "keywords": []
         },
         {
             "shortcode": ":free_button:",
             "unicode": "U+1F193",
-            "emoji": "🆓"
+            "emoji": "🆓",
+            "keywords": []
         },
         {
             "shortcode": ":information:",
@@ -15093,137 +15269,164 @@
         {
             "shortcode": ":id_button:",
             "unicode": "U+1F194",
-            "emoji": "🆔"
+            "emoji": "🆔",
+            "keywords": []
         },
         {
             "shortcode": ":circled_m:",
             "unicode": "U+24C2",
-            "emoji": "Ⓜ"
+            "emoji": "Ⓜ",
+            "keywords": []
         },
         {
             "shortcode": ":new_button:",
             "unicode": "U+1F195",
-            "emoji": "🆕"
+            "emoji": "🆕",
+            "keywords": []
         },
         {
             "shortcode": ":ng_button:",
             "unicode": "U+1F196",
-            "emoji": "🆖"
+            "emoji": "🆖",
+            "keywords": []
         },
         {
             "shortcode": ":o_button_blood_type:",
             "unicode": "U+1F17E",
-            "emoji": "🅾"
+            "emoji": "🅾",
+            "keywords": []
         },
         {
             "shortcode": ":ok_button:",
             "unicode": "U+1F197",
-            "emoji": "🆗"
+            "emoji": "🆗",
+            "keywords": []
         },
         {
             "shortcode": ":p_button:",
             "unicode": "U+1F17F",
-            "emoji": "🅿"
+            "emoji": "🅿",
+            "keywords": []
         },
         {
             "shortcode": ":sos_button:",
             "unicode": "U+1F198",
-            "emoji": "🆘"
+            "emoji": "🆘",
+            "keywords": []
         },
         {
             "shortcode": ":up_button:",
             "unicode": "U+1F199",
-            "emoji": "🆙"
+            "emoji": "🆙",
+            "keywords": []
         },
         {
             "shortcode": ":vs_button:",
             "unicode": "U+1F19A",
-            "emoji": "🆚"
+            "emoji": "🆚",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_here_button:",
             "unicode": "U+1F201",
-            "emoji": "🈁"
+            "emoji": "🈁",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_service_charge_button:",
             "unicode": "U+1F202",
-            "emoji": "🈂"
+            "emoji": "🈂",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_monthly_amount_button:",
             "unicode": "U+1F237",
-            "emoji": "🈷"
+            "emoji": "🈷",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_not_free_of_charge_button:",
             "unicode": "U+1F236",
-            "emoji": "🈶"
+            "emoji": "🈶",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_reserved_button:",
             "unicode": "U+1F22F",
-            "emoji": "🈯"
+            "emoji": "🈯",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_bargain_button:",
             "unicode": "U+1F250",
-            "emoji": "🉐"
+            "emoji": "🉐",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_discount_button:",
             "unicode": "U+1F239",
-            "emoji": "🈹"
+            "emoji": "🈹",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_free_of_charge_button:",
             "unicode": "U+1F21A",
-            "emoji": "🈚"
+            "emoji": "🈚",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_prohibited_button:",
             "unicode": "U+1F232",
-            "emoji": "🈲"
+            "emoji": "🈲",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_acceptable_button:",
             "unicode": "U+1F251",
-            "emoji": "🉑"
+            "emoji": "🉑",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_application_button:",
             "unicode": "U+1F238",
-            "emoji": "🈸"
+            "emoji": "🈸",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_passing_grade_button:",
             "unicode": "U+1F234",
-            "emoji": "🈴"
+            "emoji": "🈴",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_vacancy_button:",
             "unicode": "U+1F233",
-            "emoji": "🈳"
+            "emoji": "🈳",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_congratulations_button:",
             "unicode": "U+3297",
-            "emoji": "㊗"
+            "emoji": "㊗",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_secret_button:",
             "unicode": "U+3299",
-            "emoji": "㊙"
+            "emoji": "㊙",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_open_for_business_button:",
             "unicode": "U+1F23A",
-            "emoji": "🈺"
+            "emoji": "🈺",
+            "keywords": []
         },
         {
             "shortcode": ":japanese_no_vacancy_button:",
             "unicode": "U+1F235",
-            "emoji": "🈵"
+            "emoji": "🈵",
+            "keywords": []
         },
         {
             "shortcode": ":red_circle:",
@@ -15416,12 +15619,14 @@
         {
             "shortcode": ":black_medium_small_square:",
             "unicode": "U+25FE",
-            "emoji": "◾"
+            "emoji": "◾",
+            "keywords": []
         },
         {
             "shortcode": ":white_medium_small_square:",
             "unicode": "U+25FD",
-            "emoji": "◽"
+            "emoji": "◽",
+            "keywords": []
         },
         {
             "shortcode": ":black_small_square:",
@@ -15642,1307 +15847,1568 @@
         {
             "shortcode": ":flag_ascension_island:",
             "unicode": "U+1F1E6 U+1F1E8",
-            "emoji": "🇦🇨"
+            "emoji": "🇦🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_andorra:",
             "unicode": "U+1F1E6 U+1F1E9",
-            "emoji": "🇦🇩"
+            "emoji": "🇦🇩",
+            "keywords": []
         },
         {
             "shortcode": ":flag_united_arab_emirates:",
             "unicode": "U+1F1E6 U+1F1EA",
-            "emoji": "🇦🇪"
+            "emoji": "🇦🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_afghanistan:",
             "unicode": "U+1F1E6 U+1F1EB",
-            "emoji": "🇦🇫"
+            "emoji": "🇦🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_antigua_barbuda:",
             "unicode": "U+1F1E6 U+1F1EC",
-            "emoji": "🇦🇬"
+            "emoji": "🇦🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_anguilla:",
             "unicode": "U+1F1E6 U+1F1EE",
-            "emoji": "🇦🇮"
+            "emoji": "🇦🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_albania:",
             "unicode": "U+1F1E6 U+1F1F1",
-            "emoji": "🇦🇱"
+            "emoji": "🇦🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_armenia:",
             "unicode": "U+1F1E6 U+1F1F2",
-            "emoji": "🇦🇲"
+            "emoji": "🇦🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_angola:",
             "unicode": "U+1F1E6 U+1F1F4",
-            "emoji": "🇦🇴"
+            "emoji": "🇦🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_antarctica:",
             "unicode": "U+1F1E6 U+1F1F6",
-            "emoji": "🇦🇶"
+            "emoji": "🇦🇶",
+            "keywords": []
         },
         {
             "shortcode": ":flag_argentina:",
             "unicode": "U+1F1E6 U+1F1F7",
-            "emoji": "🇦🇷"
+            "emoji": "🇦🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_american_samoa:",
             "unicode": "U+1F1E6 U+1F1F8",
-            "emoji": "🇦🇸"
+            "emoji": "🇦🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_austria:",
             "unicode": "U+1F1E6 U+1F1F9",
-            "emoji": "🇦🇹"
+            "emoji": "🇦🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_australia:",
             "unicode": "U+1F1E6 U+1F1FA",
-            "emoji": "🇦🇺"
+            "emoji": "🇦🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_aruba:",
             "unicode": "U+1F1E6 U+1F1FC",
-            "emoji": "🇦🇼"
+            "emoji": "🇦🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_åland_islands:",
             "unicode": "U+1F1E6 U+1F1FD",
-            "emoji": "🇦🇽"
+            "emoji": "🇦🇽",
+            "keywords": []
         },
         {
             "shortcode": ":flag_azerbaijan:",
             "unicode": "U+1F1E6 U+1F1FF",
-            "emoji": "🇦🇿"
+            "emoji": "🇦🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bosnia_herzegovina:",
             "unicode": "U+1F1E7 U+1F1E6",
-            "emoji": "🇧🇦"
+            "emoji": "🇧🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_barbados:",
             "unicode": "U+1F1E7 U+1F1E7",
-            "emoji": "🇧🇧"
+            "emoji": "🇧🇧",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bangladesh:",
             "unicode": "U+1F1E7 U+1F1E9",
-            "emoji": "🇧🇩"
+            "emoji": "🇧🇩",
+            "keywords": []
         },
         {
             "shortcode": ":flag_belgium:",
             "unicode": "U+1F1E7 U+1F1EA",
-            "emoji": "🇧🇪"
+            "emoji": "🇧🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_burkina_faso:",
             "unicode": "U+1F1E7 U+1F1EB",
-            "emoji": "🇧🇫"
+            "emoji": "🇧🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bulgaria:",
             "unicode": "U+1F1E7 U+1F1EC",
-            "emoji": "🇧🇬"
+            "emoji": "🇧🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bahrain:",
             "unicode": "U+1F1E7 U+1F1ED",
-            "emoji": "🇧🇭"
+            "emoji": "🇧🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_burundi:",
             "unicode": "U+1F1E7 U+1F1EE",
-            "emoji": "🇧🇮"
+            "emoji": "🇧🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_benin:",
             "unicode": "U+1F1E7 U+1F1EF",
-            "emoji": "🇧🇯"
+            "emoji": "🇧🇯",
+            "keywords": []
         },
         {
             "shortcode": ":flag_st._barthélemy:",
             "unicode": "U+1F1E7 U+1F1F1",
-            "emoji": "🇧🇱"
+            "emoji": "🇧🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bermuda:",
             "unicode": "U+1F1E7 U+1F1F2",
-            "emoji": "🇧🇲"
+            "emoji": "🇧🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_brunei:",
             "unicode": "U+1F1E7 U+1F1F3",
-            "emoji": "🇧🇳"
+            "emoji": "🇧🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bolivia:",
             "unicode": "U+1F1E7 U+1F1F4",
-            "emoji": "🇧🇴"
+            "emoji": "🇧🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_caribbean_netherlands:",
             "unicode": "U+1F1E7 U+1F1F6",
-            "emoji": "🇧🇶"
+            "emoji": "🇧🇶",
+            "keywords": []
         },
         {
             "shortcode": ":flag_brazil:",
             "unicode": "U+1F1E7 U+1F1F7",
-            "emoji": "🇧🇷"
+            "emoji": "🇧🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bahamas:",
             "unicode": "U+1F1E7 U+1F1F8",
-            "emoji": "🇧🇸"
+            "emoji": "🇧🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bhutan:",
             "unicode": "U+1F1E7 U+1F1F9",
-            "emoji": "🇧🇹"
+            "emoji": "🇧🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_bouvet_island:",
             "unicode": "U+1F1E7 U+1F1FB",
-            "emoji": "🇧🇻"
+            "emoji": "🇧🇻",
+            "keywords": []
         },
         {
             "shortcode": ":flag_botswana:",
             "unicode": "U+1F1E7 U+1F1FC",
-            "emoji": "🇧🇼"
+            "emoji": "🇧🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_belarus:",
             "unicode": "U+1F1E7 U+1F1FE",
-            "emoji": "🇧🇾"
+            "emoji": "🇧🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_belize:",
             "unicode": "U+1F1E7 U+1F1FF",
-            "emoji": "🇧🇿"
+            "emoji": "🇧🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_canada:",
             "unicode": "U+1F1E8 U+1F1E6",
-            "emoji": "🇨🇦"
+            "emoji": "🇨🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_cocos_keeling_islands:",
             "unicode": "U+1F1E8 U+1F1E8",
-            "emoji": "🇨🇨"
+            "emoji": "🇨🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_congo_kinshasa:",
             "unicode": "U+1F1E8 U+1F1E9",
-            "emoji": "🇨🇩"
+            "emoji": "🇨🇩",
+            "keywords": []
         },
         {
             "shortcode": ":flag_central_african_republic:",
             "unicode": "U+1F1E8 U+1F1EB",
-            "emoji": "🇨🇫"
+            "emoji": "🇨🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_congo_brazzaville:",
             "unicode": "U+1F1E8 U+1F1EC",
-            "emoji": "🇨🇬"
+            "emoji": "🇨🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_switzerland:",
             "unicode": "U+1F1E8 U+1F1ED",
-            "emoji": "🇨🇭"
+            "emoji": "🇨🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_côte_divoire:",
             "unicode": "U+1F1E8 U+1F1EE",
-            "emoji": "🇨🇮"
+            "emoji": "🇨🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_cook_islands:",
             "unicode": "U+1F1E8 U+1F1F0",
-            "emoji": "🇨🇰"
+            "emoji": "🇨🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_chile:",
             "unicode": "U+1F1E8 U+1F1F1",
-            "emoji": "🇨🇱"
+            "emoji": "🇨🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_cameroon:",
             "unicode": "U+1F1E8 U+1F1F2",
-            "emoji": "🇨🇲"
+            "emoji": "🇨🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_china:",
             "unicode": "U+1F1E8 U+1F1F3",
-            "emoji": "🇨🇳"
+            "emoji": "🇨🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_colombia:",
             "unicode": "U+1F1E8 U+1F1F4",
-            "emoji": "🇨🇴"
+            "emoji": "🇨🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_clipperton_island:",
             "unicode": "U+1F1E8 U+1F1F5",
-            "emoji": "🇨🇵"
+            "emoji": "🇨🇵",
+            "keywords": []
         },
         {
             "shortcode": ":flag_costa_rica:",
             "unicode": "U+1F1E8 U+1F1F7",
-            "emoji": "🇨🇷"
+            "emoji": "🇨🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_cuba:",
             "unicode": "U+1F1E8 U+1F1FA",
-            "emoji": "🇨🇺"
+            "emoji": "🇨🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_cape_verde:",
             "unicode": "U+1F1E8 U+1F1FB",
-            "emoji": "🇨🇻"
+            "emoji": "🇨🇻",
+            "keywords": []
         },
         {
             "shortcode": ":flag_curaçao:",
             "unicode": "U+1F1E8 U+1F1FC",
-            "emoji": "🇨🇼"
+            "emoji": "🇨🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_christmas_island:",
             "unicode": "U+1F1E8 U+1F1FD",
-            "emoji": "🇨🇽"
+            "emoji": "🇨🇽",
+            "keywords": []
         },
         {
             "shortcode": ":flag_cyprus:",
             "unicode": "U+1F1E8 U+1F1FE",
-            "emoji": "🇨🇾"
+            "emoji": "🇨🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_czechia:",
             "unicode": "U+1F1E8 U+1F1FF",
-            "emoji": "🇨🇿"
+            "emoji": "🇨🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_germany:",
             "unicode": "U+1F1E9 U+1F1EA",
-            "emoji": "🇩🇪"
+            "emoji": "🇩🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_diego_garcia:",
             "unicode": "U+1F1E9 U+1F1EC",
-            "emoji": "🇩🇬"
+            "emoji": "🇩🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_djibouti:",
             "unicode": "U+1F1E9 U+1F1EF",
-            "emoji": "🇩🇯"
+            "emoji": "🇩🇯",
+            "keywords": []
         },
         {
             "shortcode": ":flag_denmark:",
             "unicode": "U+1F1E9 U+1F1F0",
-            "emoji": "🇩🇰"
+            "emoji": "🇩🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_dominica:",
             "unicode": "U+1F1E9 U+1F1F2",
-            "emoji": "🇩🇲"
+            "emoji": "🇩🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_dominican_republic:",
             "unicode": "U+1F1E9 U+1F1F4",
-            "emoji": "🇩🇴"
+            "emoji": "🇩🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_algeria:",
             "unicode": "U+1F1E9 U+1F1FF",
-            "emoji": "🇩🇿"
+            "emoji": "🇩🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_ceuta_melilla:",
             "unicode": "U+1F1EA U+1F1E6",
-            "emoji": "🇪🇦"
+            "emoji": "🇪🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_ecuador:",
             "unicode": "U+1F1EA U+1F1E8",
-            "emoji": "🇪🇨"
+            "emoji": "🇪🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_estonia:",
             "unicode": "U+1F1EA U+1F1EA",
-            "emoji": "🇪🇪"
+            "emoji": "🇪🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_egypt:",
             "unicode": "U+1F1EA U+1F1EC",
-            "emoji": "🇪🇬"
+            "emoji": "🇪🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_western_sahara:",
             "unicode": "U+1F1EA U+1F1ED",
-            "emoji": "🇪🇭"
+            "emoji": "🇪🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_eritrea:",
             "unicode": "U+1F1EA U+1F1F7",
-            "emoji": "🇪🇷"
+            "emoji": "🇪🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_spain:",
             "unicode": "U+1F1EA U+1F1F8",
-            "emoji": "🇪🇸"
+            "emoji": "🇪🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_ethiopia:",
             "unicode": "U+1F1EA U+1F1F9",
-            "emoji": "🇪🇹"
+            "emoji": "🇪🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_european_union:",
             "unicode": "U+1F1EA U+1F1FA",
-            "emoji": "🇪🇺"
+            "emoji": "🇪🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_finland:",
             "unicode": "U+1F1EB U+1F1EE",
-            "emoji": "🇫🇮"
+            "emoji": "🇫🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_fiji:",
             "unicode": "U+1F1EB U+1F1EF",
-            "emoji": "🇫🇯"
+            "emoji": "🇫🇯",
+            "keywords": []
         },
         {
             "shortcode": ":flag_falkland_islands:",
             "unicode": "U+1F1EB U+1F1F0",
-            "emoji": "🇫🇰"
+            "emoji": "🇫🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_micronesia:",
             "unicode": "U+1F1EB U+1F1F2",
-            "emoji": "🇫🇲"
+            "emoji": "🇫🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_faroe_islands:",
             "unicode": "U+1F1EB U+1F1F4",
-            "emoji": "🇫🇴"
+            "emoji": "🇫🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_france:",
             "unicode": "U+1F1EB U+1F1F7",
-            "emoji": "🇫🇷"
+            "emoji": "🇫🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_gabon:",
             "unicode": "U+1F1EC U+1F1E6",
-            "emoji": "🇬🇦"
+            "emoji": "🇬🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_united_kingdom:",
             "unicode": "U+1F1EC U+1F1E7",
-            "emoji": "🇬🇧"
+            "emoji": "🇬🇧",
+            "keywords": []
         },
         {
             "shortcode": ":flag_grenada:",
             "unicode": "U+1F1EC U+1F1E9",
-            "emoji": "🇬🇩"
+            "emoji": "🇬🇩",
+            "keywords": []
         },
         {
             "shortcode": ":flag_georgia:",
             "unicode": "U+1F1EC U+1F1EA",
-            "emoji": "🇬🇪"
+            "emoji": "🇬🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_french_guiana:",
             "unicode": "U+1F1EC U+1F1EB",
-            "emoji": "🇬🇫"
+            "emoji": "🇬🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_guernsey:",
             "unicode": "U+1F1EC U+1F1EC",
-            "emoji": "🇬🇬"
+            "emoji": "🇬🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_ghana:",
             "unicode": "U+1F1EC U+1F1ED",
-            "emoji": "🇬🇭"
+            "emoji": "🇬🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_gibraltar:",
             "unicode": "U+1F1EC U+1F1EE",
-            "emoji": "🇬🇮"
+            "emoji": "🇬🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_greenland:",
             "unicode": "U+1F1EC U+1F1F1",
-            "emoji": "🇬🇱"
+            "emoji": "🇬🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_gambia:",
             "unicode": "U+1F1EC U+1F1F2",
-            "emoji": "🇬🇲"
+            "emoji": "🇬🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_guinea:",
             "unicode": "U+1F1EC U+1F1F3",
-            "emoji": "🇬🇳"
+            "emoji": "🇬🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_guadeloupe:",
             "unicode": "U+1F1EC U+1F1F5",
-            "emoji": "🇬🇵"
+            "emoji": "🇬🇵",
+            "keywords": []
         },
         {
             "shortcode": ":flag_equatorial_guinea:",
             "unicode": "U+1F1EC U+1F1F6",
-            "emoji": "🇬🇶"
+            "emoji": "🇬🇶",
+            "keywords": []
         },
         {
             "shortcode": ":flag_greece:",
             "unicode": "U+1F1EC U+1F1F7",
-            "emoji": "🇬🇷"
+            "emoji": "🇬🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_south_georgia_south_sandwich_islands:",
             "unicode": "U+1F1EC U+1F1F8",
-            "emoji": "🇬🇸"
+            "emoji": "🇬🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_guatemala:",
             "unicode": "U+1F1EC U+1F1F9",
-            "emoji": "🇬🇹"
+            "emoji": "🇬🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_guam:",
             "unicode": "U+1F1EC U+1F1FA",
-            "emoji": "🇬🇺"
+            "emoji": "🇬🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_guinea_bissau:",
             "unicode": "U+1F1EC U+1F1FC",
-            "emoji": "🇬🇼"
+            "emoji": "🇬🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_guyana:",
             "unicode": "U+1F1EC U+1F1FE",
-            "emoji": "🇬🇾"
+            "emoji": "🇬🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_hong_kong_sar_china:",
             "unicode": "U+1F1ED U+1F1F0",
-            "emoji": "🇭🇰"
+            "emoji": "🇭🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_heard_mcdonald_islands:",
             "unicode": "U+1F1ED U+1F1F2",
-            "emoji": "🇭🇲"
+            "emoji": "🇭🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_honduras:",
             "unicode": "U+1F1ED U+1F1F3",
-            "emoji": "🇭🇳"
+            "emoji": "🇭🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_croatia:",
             "unicode": "U+1F1ED U+1F1F7",
-            "emoji": "🇭🇷"
+            "emoji": "🇭🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_haiti:",
             "unicode": "U+1F1ED U+1F1F9",
-            "emoji": "🇭🇹"
+            "emoji": "🇭🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_hungary:",
             "unicode": "U+1F1ED U+1F1FA",
-            "emoji": "🇭🇺"
+            "emoji": "🇭🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_canary_islands:",
             "unicode": "U+1F1EE U+1F1E8",
-            "emoji": "🇮🇨"
+            "emoji": "🇮🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_indonesia:",
             "unicode": "U+1F1EE U+1F1E9",
-            "emoji": "🇮🇩"
+            "emoji": "🇮🇩",
+            "keywords": []
         },
         {
             "shortcode": ":flag_ireland:",
             "unicode": "U+1F1EE U+1F1EA",
-            "emoji": "🇮🇪"
+            "emoji": "🇮🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_israel:",
             "unicode": "U+1F1EE U+1F1F1",
-            "emoji": "🇮🇱"
+            "emoji": "🇮🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_isle_of_man:",
             "unicode": "U+1F1EE U+1F1F2",
-            "emoji": "🇮🇲"
+            "emoji": "🇮🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_india:",
             "unicode": "U+1F1EE U+1F1F3",
-            "emoji": "🇮🇳"
+            "emoji": "🇮🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_british_indian_ocean_territory:",
             "unicode": "U+1F1EE U+1F1F4",
-            "emoji": "🇮🇴"
+            "emoji": "🇮🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_iraq:",
             "unicode": "U+1F1EE U+1F1F6",
-            "emoji": "🇮🇶"
+            "emoji": "🇮🇶",
+            "keywords": []
         },
         {
             "shortcode": ":flag_iran:",
             "unicode": "U+1F1EE U+1F1F7",
-            "emoji": "🇮🇷"
+            "emoji": "🇮🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_iceland:",
             "unicode": "U+1F1EE U+1F1F8",
-            "emoji": "🇮🇸"
+            "emoji": "🇮🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_italy:",
             "unicode": "U+1F1EE U+1F1F9",
-            "emoji": "🇮🇹"
+            "emoji": "🇮🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_jersey:",
             "unicode": "U+1F1EF U+1F1EA",
-            "emoji": "🇯🇪"
+            "emoji": "🇯🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_jamaica:",
             "unicode": "U+1F1EF U+1F1F2",
-            "emoji": "🇯🇲"
+            "emoji": "🇯🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_jordan:",
             "unicode": "U+1F1EF U+1F1F4",
-            "emoji": "🇯🇴"
+            "emoji": "🇯🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_japan:",
             "unicode": "U+1F1EF U+1F1F5",
-            "emoji": "🇯🇵"
+            "emoji": "🇯🇵",
+            "keywords": []
         },
         {
             "shortcode": ":flag_kenya:",
             "unicode": "U+1F1F0 U+1F1EA",
-            "emoji": "🇰🇪"
+            "emoji": "🇰🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_kyrgyzstan:",
             "unicode": "U+1F1F0 U+1F1EC",
-            "emoji": "🇰🇬"
+            "emoji": "🇰🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_cambodia:",
             "unicode": "U+1F1F0 U+1F1ED",
-            "emoji": "🇰🇭"
+            "emoji": "🇰🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_kiribati:",
             "unicode": "U+1F1F0 U+1F1EE",
-            "emoji": "🇰🇮"
+            "emoji": "🇰🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_comoros:",
             "unicode": "U+1F1F0 U+1F1F2",
-            "emoji": "🇰🇲"
+            "emoji": "🇰🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_st._kitts_nevis:",
             "unicode": "U+1F1F0 U+1F1F3",
-            "emoji": "🇰🇳"
+            "emoji": "🇰🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_north_korea:",
             "unicode": "U+1F1F0 U+1F1F5",
-            "emoji": "🇰🇵"
+            "emoji": "🇰🇵",
+            "keywords": []
         },
         {
             "shortcode": ":flag_south_korea:",
             "unicode": "U+1F1F0 U+1F1F7",
-            "emoji": "🇰🇷"
+            "emoji": "🇰🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_kuwait:",
             "unicode": "U+1F1F0 U+1F1FC",
-            "emoji": "🇰🇼"
+            "emoji": "🇰🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_cayman_islands:",
             "unicode": "U+1F1F0 U+1F1FE",
-            "emoji": "🇰🇾"
+            "emoji": "🇰🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_kazakhstan:",
             "unicode": "U+1F1F0 U+1F1FF",
-            "emoji": "🇰🇿"
+            "emoji": "🇰🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_laos:",
             "unicode": "U+1F1F1 U+1F1E6",
-            "emoji": "🇱🇦"
+            "emoji": "🇱🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_lebanon:",
             "unicode": "U+1F1F1 U+1F1E7",
-            "emoji": "🇱🇧"
+            "emoji": "🇱🇧",
+            "keywords": []
         },
         {
             "shortcode": ":flag_st._lucia:",
             "unicode": "U+1F1F1 U+1F1E8",
-            "emoji": "🇱🇨"
+            "emoji": "🇱🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_liechtenstein:",
             "unicode": "U+1F1F1 U+1F1EE",
-            "emoji": "🇱🇮"
+            "emoji": "🇱🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_sri_lanka:",
             "unicode": "U+1F1F1 U+1F1F0",
-            "emoji": "🇱🇰"
+            "emoji": "🇱🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_liberia:",
             "unicode": "U+1F1F1 U+1F1F7",
-            "emoji": "🇱🇷"
+            "emoji": "🇱🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_lesotho:",
             "unicode": "U+1F1F1 U+1F1F8",
-            "emoji": "🇱🇸"
+            "emoji": "🇱🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_lithuania:",
             "unicode": "U+1F1F1 U+1F1F9",
-            "emoji": "🇱🇹"
+            "emoji": "🇱🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_luxembourg:",
             "unicode": "U+1F1F1 U+1F1FA",
-            "emoji": "🇱🇺"
+            "emoji": "🇱🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_latvia:",
             "unicode": "U+1F1F1 U+1F1FB",
-            "emoji": "🇱🇻"
+            "emoji": "🇱🇻",
+            "keywords": []
         },
         {
             "shortcode": ":flag_libya:",
             "unicode": "U+1F1F1 U+1F1FE",
-            "emoji": "🇱🇾"
+            "emoji": "🇱🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_morocco:",
             "unicode": "U+1F1F2 U+1F1E6",
-            "emoji": "🇲🇦"
+            "emoji": "🇲🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_monaco:",
             "unicode": "U+1F1F2 U+1F1E8",
-            "emoji": "🇲🇨"
+            "emoji": "🇲🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_moldova:",
             "unicode": "U+1F1F2 U+1F1E9",
-            "emoji": "🇲🇩"
+            "emoji": "🇲🇩",
+            "keywords": []
         },
         {
             "shortcode": ":flag_montenegro:",
             "unicode": "U+1F1F2 U+1F1EA",
-            "emoji": "🇲🇪"
+            "emoji": "🇲🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_st._martin:",
             "unicode": "U+1F1F2 U+1F1EB",
-            "emoji": "🇲🇫"
+            "emoji": "🇲🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_madagascar:",
             "unicode": "U+1F1F2 U+1F1EC",
-            "emoji": "🇲🇬"
+            "emoji": "🇲🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_marshall_islands:",
             "unicode": "U+1F1F2 U+1F1ED",
-            "emoji": "🇲🇭"
+            "emoji": "🇲🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_north_macedonia:",
             "unicode": "U+1F1F2 U+1F1F0",
-            "emoji": "🇲🇰"
+            "emoji": "🇲🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_mali:",
             "unicode": "U+1F1F2 U+1F1F1",
-            "emoji": "🇲🇱"
+            "emoji": "🇲🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_myanmar_burma_:",
             "unicode": "U+1F1F2 U+1F1F2",
-            "emoji": "🇲🇲"
+            "emoji": "🇲🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_mongolia:",
             "unicode": "U+1F1F2 U+1F1F3",
-            "emoji": "🇲🇳"
+            "emoji": "🇲🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_macao_sar_china:",
             "unicode": "U+1F1F2 U+1F1F4",
-            "emoji": "🇲🇴"
+            "emoji": "🇲🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_northern_mariana_islands:",
             "unicode": "U+1F1F2 U+1F1F5",
-            "emoji": "🇲🇵"
+            "emoji": "🇲🇵",
+            "keywords": []
         },
         {
             "shortcode": ":flag_martinique:",
             "unicode": "U+1F1F2 U+1F1F6",
-            "emoji": "🇲🇶"
+            "emoji": "🇲🇶",
+            "keywords": []
         },
         {
             "shortcode": ":flag_mauritania:",
             "unicode": "U+1F1F2 U+1F1F7",
-            "emoji": "🇲🇷"
+            "emoji": "🇲🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_montserrat:",
             "unicode": "U+1F1F2 U+1F1F8",
-            "emoji": "🇲🇸"
+            "emoji": "🇲🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_malta:",
             "unicode": "U+1F1F2 U+1F1F9",
-            "emoji": "🇲🇹"
+            "emoji": "🇲🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_mauritius:",
             "unicode": "U+1F1F2 U+1F1FA",
-            "emoji": "🇲🇺"
+            "emoji": "🇲🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_maldives:",
             "unicode": "U+1F1F2 U+1F1FB",
-            "emoji": "🇲🇻"
+            "emoji": "🇲🇻",
+            "keywords": []
         },
         {
             "shortcode": ":flag_malawi:",
             "unicode": "U+1F1F2 U+1F1FC",
-            "emoji": "🇲🇼"
+            "emoji": "🇲🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_mexico:",
             "unicode": "U+1F1F2 U+1F1FD",
-            "emoji": "🇲🇽"
+            "emoji": "🇲🇽",
+            "keywords": []
         },
         {
             "shortcode": ":flag_malaysia:",
             "unicode": "U+1F1F2 U+1F1FE",
-            "emoji": "🇲🇾"
+            "emoji": "🇲🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_mozambique:",
             "unicode": "U+1F1F2 U+1F1FF",
-            "emoji": "🇲🇿"
+            "emoji": "🇲🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_namibia:",
             "unicode": "U+1F1F3 U+1F1E6",
-            "emoji": "🇳🇦"
+            "emoji": "🇳🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_new_caledonia:",
             "unicode": "U+1F1F3 U+1F1E8",
-            "emoji": "🇳🇨"
+            "emoji": "🇳🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_niger:",
             "unicode": "U+1F1F3 U+1F1EA",
-            "emoji": "🇳🇪"
+            "emoji": "🇳🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_norfolk_island:",
             "unicode": "U+1F1F3 U+1F1EB",
-            "emoji": "🇳🇫"
+            "emoji": "🇳🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_nigeria:",
             "unicode": "U+1F1F3 U+1F1EC",
-            "emoji": "🇳🇬"
+            "emoji": "🇳🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_nicaragua:",
             "unicode": "U+1F1F3 U+1F1EE",
-            "emoji": "🇳🇮"
+            "emoji": "🇳🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_netherlands:",
             "unicode": "U+1F1F3 U+1F1F1",
-            "emoji": "🇳🇱"
+            "emoji": "🇳🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_norway:",
             "unicode": "U+1F1F3 U+1F1F4",
-            "emoji": "🇳🇴"
+            "emoji": "🇳🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_nepal:",
             "unicode": "U+1F1F3 U+1F1F5",
-            "emoji": "🇳🇵"
+            "emoji": "🇳🇵",
+            "keywords": []
         },
         {
             "shortcode": ":flag_nauru:",
             "unicode": "U+1F1F3 U+1F1F7",
-            "emoji": "🇳🇷"
+            "emoji": "🇳🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_niue:",
             "unicode": "U+1F1F3 U+1F1FA",
-            "emoji": "🇳🇺"
+            "emoji": "🇳🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_new_zealand:",
             "unicode": "U+1F1F3 U+1F1FF",
-            "emoji": "🇳🇿"
+            "emoji": "🇳🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_oman:",
             "unicode": "U+1F1F4 U+1F1F2",
-            "emoji": "🇴🇲"
+            "emoji": "🇴🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_panama:",
             "unicode": "U+1F1F5 U+1F1E6",
-            "emoji": "🇵🇦"
+            "emoji": "🇵🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_peru:",
             "unicode": "U+1F1F5 U+1F1EA",
-            "emoji": "🇵🇪"
+            "emoji": "🇵🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_french_polynesia:",
             "unicode": "U+1F1F5 U+1F1EB",
-            "emoji": "🇵🇫"
+            "emoji": "🇵🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_papua_new_guinea:",
             "unicode": "U+1F1F5 U+1F1EC",
-            "emoji": "🇵🇬"
+            "emoji": "🇵🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_philippines:",
             "unicode": "U+1F1F5 U+1F1ED",
-            "emoji": "🇵🇭"
+            "emoji": "🇵🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_pakistan:",
             "unicode": "U+1F1F5 U+1F1F0",
-            "emoji": "🇵🇰"
+            "emoji": "🇵🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_poland:",
             "unicode": "U+1F1F5 U+1F1F1",
-            "emoji": "🇵🇱"
+            "emoji": "🇵🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_st._pierre_miquelon:",
             "unicode": "U+1F1F5 U+1F1F2",
-            "emoji": "🇵🇲"
+            "emoji": "🇵🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_pitcairn_islands:",
             "unicode": "U+1F1F5 U+1F1F3",
-            "emoji": "🇵🇳"
+            "emoji": "🇵🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_puerto_rico:",
             "unicode": "U+1F1F5 U+1F1F7",
-            "emoji": "🇵🇷"
+            "emoji": "🇵🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_palestinian_territories:",
             "unicode": "U+1F1F5 U+1F1F8",
-            "emoji": "🇵🇸"
+            "emoji": "🇵🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_portugal:",
             "unicode": "U+1F1F5 U+1F1F9",
-            "emoji": "🇵🇹"
+            "emoji": "🇵🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_palau:",
             "unicode": "U+1F1F5 U+1F1FC",
-            "emoji": "🇵🇼"
+            "emoji": "🇵🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_paraguay:",
             "unicode": "U+1F1F5 U+1F1FE",
-            "emoji": "🇵🇾"
+            "emoji": "🇵🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_qatar:",
             "unicode": "U+1F1F6 U+1F1E6",
-            "emoji": "🇶🇦"
+            "emoji": "🇶🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_réunion:",
             "unicode": "U+1F1F7 U+1F1EA",
-            "emoji": "🇷🇪"
+            "emoji": "🇷🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_romania:",
             "unicode": "U+1F1F7 U+1F1F4",
-            "emoji": "🇷🇴"
+            "emoji": "🇷🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_serbia:",
             "unicode": "U+1F1F7 U+1F1F8",
-            "emoji": "🇷🇸"
+            "emoji": "🇷🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_russia:",
             "unicode": "U+1F1F7 U+1F1FA",
-            "emoji": "🇷🇺"
+            "emoji": "🇷🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_rwanda:",
             "unicode": "U+1F1F7 U+1F1FC",
-            "emoji": "🇷🇼"
+            "emoji": "🇷🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_saudi_arabia:",
             "unicode": "U+1F1F8 U+1F1E6",
-            "emoji": "🇸🇦"
+            "emoji": "🇸🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_solomon_islands:",
             "unicode": "U+1F1F8 U+1F1E7",
-            "emoji": "🇸🇧"
+            "emoji": "🇸🇧",
+            "keywords": []
         },
         {
             "shortcode": ":flag_seychelles:",
             "unicode": "U+1F1F8 U+1F1E8",
-            "emoji": "🇸🇨"
+            "emoji": "🇸🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_sudan:",
             "unicode": "U+1F1F8 U+1F1E9",
-            "emoji": "🇸🇩"
+            "emoji": "🇸🇩",
+            "keywords": []
         },
         {
             "shortcode": ":flag_sweden:",
             "unicode": "U+1F1F8 U+1F1EA",
-            "emoji": "🇸🇪"
+            "emoji": "🇸🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_singapore:",
             "unicode": "U+1F1F8 U+1F1EC",
-            "emoji": "🇸🇬"
+            "emoji": "🇸🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_st._helena:",
             "unicode": "U+1F1F8 U+1F1ED",
-            "emoji": "🇸🇭"
+            "emoji": "🇸🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_slovenia:",
             "unicode": "U+1F1F8 U+1F1EE",
-            "emoji": "🇸🇮"
+            "emoji": "🇸🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_svalbard_jan_mayen:",
             "unicode": "U+1F1F8 U+1F1EF",
-            "emoji": "🇸🇯"
+            "emoji": "🇸🇯",
+            "keywords": []
         },
         {
             "shortcode": ":flag_slovakia:",
             "unicode": "U+1F1F8 U+1F1F0",
-            "emoji": "🇸🇰"
+            "emoji": "🇸🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_sierra_leone:",
             "unicode": "U+1F1F8 U+1F1F1",
-            "emoji": "🇸🇱"
+            "emoji": "🇸🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_san_marino:",
             "unicode": "U+1F1F8 U+1F1F2",
-            "emoji": "🇸🇲"
+            "emoji": "🇸🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_senegal:",
             "unicode": "U+1F1F8 U+1F1F3",
-            "emoji": "🇸🇳"
+            "emoji": "🇸🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_somalia:",
             "unicode": "U+1F1F8 U+1F1F4",
-            "emoji": "🇸🇴"
+            "emoji": "🇸🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_suriname:",
             "unicode": "U+1F1F8 U+1F1F7",
-            "emoji": "🇸🇷"
+            "emoji": "🇸🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_south_sudan:",
             "unicode": "U+1F1F8 U+1F1F8",
-            "emoji": "🇸🇸"
+            "emoji": "🇸🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_são_tomé_príncipe:",
             "unicode": "U+1F1F8 U+1F1F9",
-            "emoji": "🇸🇹"
+            "emoji": "🇸🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_el_salvador:",
             "unicode": "U+1F1F8 U+1F1FB",
-            "emoji": "🇸🇻"
+            "emoji": "🇸🇻",
+            "keywords": []
         },
         {
             "shortcode": ":flag_sint_maarten:",
             "unicode": "U+1F1F8 U+1F1FD",
-            "emoji": "🇸🇽"
+            "emoji": "🇸🇽",
+            "keywords": []
         },
         {
             "shortcode": ":flag_syria:",
             "unicode": "U+1F1F8 U+1F1FE",
-            "emoji": "🇸🇾"
+            "emoji": "🇸🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_eswatini:",
             "unicode": "U+1F1F8 U+1F1FF",
-            "emoji": "🇸🇿"
+            "emoji": "🇸🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_tristan_da_cunha:",
             "unicode": "U+1F1F9 U+1F1E6",
-            "emoji": "🇹🇦"
+            "emoji": "🇹🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_turks_caicos_islands:",
             "unicode": "U+1F1F9 U+1F1E8",
-            "emoji": "🇹🇨"
+            "emoji": "🇹🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_chad:",
             "unicode": "U+1F1F9 U+1F1E9",
-            "emoji": "🇹🇩"
+            "emoji": "🇹🇩",
+            "keywords": []
         },
         {
             "shortcode": ":flag_french_southern_territories:",
             "unicode": "U+1F1F9 U+1F1EB",
-            "emoji": "🇹🇫"
+            "emoji": "🇹🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_togo:",
             "unicode": "U+1F1F9 U+1F1EC",
-            "emoji": "🇹🇬"
+            "emoji": "🇹🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_thailand:",
             "unicode": "U+1F1F9 U+1F1ED",
-            "emoji": "🇹🇭"
+            "emoji": "🇹🇭",
+            "keywords": []
         },
         {
             "shortcode": ":flag_tajikistan:",
             "unicode": "U+1F1F9 U+1F1EF",
-            "emoji": "🇹🇯"
+            "emoji": "🇹🇯",
+            "keywords": []
         },
         {
             "shortcode": ":flag_tokelau:",
             "unicode": "U+1F1F9 U+1F1F0",
-            "emoji": "🇹🇰"
+            "emoji": "🇹🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_timor_leste:",
             "unicode": "U+1F1F9 U+1F1F1",
-            "emoji": "🇹🇱"
+            "emoji": "🇹🇱",
+            "keywords": []
         },
         {
             "shortcode": ":flag_turkmenistan:",
             "unicode": "U+1F1F9 U+1F1F2",
-            "emoji": "🇹🇲"
+            "emoji": "🇹🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_tunisia:",
             "unicode": "U+1F1F9 U+1F1F3",
-            "emoji": "🇹🇳"
+            "emoji": "🇹🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_tonga:",
             "unicode": "U+1F1F9 U+1F1F4",
-            "emoji": "🇹🇴"
+            "emoji": "🇹🇴",
+            "keywords": []
         },
         {
             "shortcode": ":flag_turkey:",
             "unicode": "U+1F1F9 U+1F1F7",
-            "emoji": "🇹🇷"
+            "emoji": "🇹🇷",
+            "keywords": []
         },
         {
             "shortcode": ":flag_trinidad_tobago:",
             "unicode": "U+1F1F9 U+1F1F9",
-            "emoji": "🇹🇹"
+            "emoji": "🇹🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_tuvalu:",
             "unicode": "U+1F1F9 U+1F1FB",
-            "emoji": "🇹🇻"
+            "emoji": "🇹🇻",
+            "keywords": []
         },
         {
             "shortcode": ":flag_taiwan:",
             "unicode": "U+1F1F9 U+1F1FC",
-            "emoji": "🇹🇼"
+            "emoji": "🇹🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_tanzania:",
             "unicode": "U+1F1F9 U+1F1FF",
-            "emoji": "🇹🇿"
+            "emoji": "🇹🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_ukraine:",
             "unicode": "U+1F1FA U+1F1E6",
-            "emoji": "🇺🇦"
+            "emoji": "🇺🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_uganda:",
             "unicode": "U+1F1FA U+1F1EC",
-            "emoji": "🇺🇬"
+            "emoji": "🇺🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_u.s._outlying_islands:",
             "unicode": "U+1F1FA U+1F1F2",
-            "emoji": "🇺🇲"
+            "emoji": "🇺🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_united_nations:",
             "unicode": "U+1F1FA U+1F1F3",
-            "emoji": "🇺🇳"
+            "emoji": "🇺🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_united_states:",
             "unicode": "U+1F1FA U+1F1F8",
-            "emoji": "🇺🇸"
+            "emoji": "🇺🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_uruguay:",
             "unicode": "U+1F1FA U+1F1FE",
-            "emoji": "🇺🇾"
+            "emoji": "🇺🇾",
+            "keywords": []
         },
         {
             "shortcode": ":flag_uzbekistan:",
             "unicode": "U+1F1FA U+1F1FF",
-            "emoji": "🇺🇿"
+            "emoji": "🇺🇿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_vatican_city:",
             "unicode": "U+1F1FB U+1F1E6",
-            "emoji": "🇻🇦"
+            "emoji": "🇻🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_st._vincent_grenadines:",
             "unicode": "U+1F1FB U+1F1E8",
-            "emoji": "🇻🇨"
+            "emoji": "🇻🇨",
+            "keywords": []
         },
         {
             "shortcode": ":flag_venezuela:",
             "unicode": "U+1F1FB U+1F1EA",
-            "emoji": "🇻🇪"
+            "emoji": "🇻🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_british_virgin_islands:",
             "unicode": "U+1F1FB U+1F1EC",
-            "emoji": "🇻🇬"
+            "emoji": "🇻🇬",
+            "keywords": []
         },
         {
             "shortcode": ":flag_u.s._virgin_islands:",
             "unicode": "U+1F1FB U+1F1EE",
-            "emoji": "🇻🇮"
+            "emoji": "🇻🇮",
+            "keywords": []
         },
         {
             "shortcode": ":flag_vietnam:",
             "unicode": "U+1F1FB U+1F1F3",
-            "emoji": "🇻🇳"
+            "emoji": "🇻🇳",
+            "keywords": []
         },
         {
             "shortcode": ":flag_vanuatu:",
             "unicode": "U+1F1FB U+1F1FA",
-            "emoji": "🇻🇺"
+            "emoji": "🇻🇺",
+            "keywords": []
         },
         {
             "shortcode": ":flag_wallis_futuna:",
             "unicode": "U+1F1FC U+1F1EB",
-            "emoji": "🇼🇫"
+            "emoji": "🇼🇫",
+            "keywords": []
         },
         {
             "shortcode": ":flag_samoa:",
             "unicode": "U+1F1FC U+1F1F8",
-            "emoji": "🇼🇸"
+            "emoji": "🇼🇸",
+            "keywords": []
         },
         {
             "shortcode": ":flag_kosovo:",
             "unicode": "U+1F1FD U+1F1F0",
-            "emoji": "🇽🇰"
+            "emoji": "🇽🇰",
+            "keywords": []
         },
         {
             "shortcode": ":flag_yemen:",
             "unicode": "U+1F1FE U+1F1EA",
-            "emoji": "🇾🇪"
+            "emoji": "🇾🇪",
+            "keywords": []
         },
         {
             "shortcode": ":flag_mayotte:",
             "unicode": "U+1F1FE U+1F1F9",
-            "emoji": "🇾🇹"
+            "emoji": "🇾🇹",
+            "keywords": []
         },
         {
             "shortcode": ":flag_south_africa:",
             "unicode": "U+1F1FF U+1F1E6",
-            "emoji": "🇿🇦"
+            "emoji": "🇿🇦",
+            "keywords": []
         },
         {
             "shortcode": ":flag_zambia:",
             "unicode": "U+1F1FF U+1F1F2",
-            "emoji": "🇿🇲"
+            "emoji": "🇿🇲",
+            "keywords": []
         },
         {
             "shortcode": ":flag_zimbabwe:",
             "unicode": "U+1F1FF U+1F1FC",
-            "emoji": "🇿🇼"
+            "emoji": "🇿🇼",
+            "keywords": []
         },
         {
             "shortcode": ":flag_england:",
             "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F",
-            "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+            "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_scotland:",
             "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F",
-            "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+            "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+            "keywords": []
         },
         {
             "shortcode": ":flag_wales:",
             "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F",
-            "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+            "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+            "keywords": []
         }
     ]
 }

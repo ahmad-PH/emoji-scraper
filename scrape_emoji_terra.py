@@ -28,7 +28,7 @@ for url in tqdm(urls):
 
     # Find all <a> children and extract the text
     if keywords_element is not None and shortcode_element is not None:
-        shortcode = ":" + shortcode_element.text.replace("Short name:", "").strip().replace(' ', '_') + ":"
+        shortcode = ":" + shortcode_element.text.replace("Short name:", "").strip().replace(' ', '_').repace('-', '_') + ":"
         keywords = list(map(lambda x: x.strip(), keywords_element.text.replace("Keywords:", "").split('|')))
         url = url.rstrip('/').split('/')[-1]
 
